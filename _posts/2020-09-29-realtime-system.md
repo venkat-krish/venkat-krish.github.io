@@ -4,7 +4,7 @@ title: "Real-Time System Architecture"
 author: "Venkat Krish"
 categories: journal
 tags: [real-time,stream processing, distributed]
-image: real_time_sytem.jpg
+image: real_time_system.jpg
 ---
 
 In the space of Big Data system the volume and variety of data play a majore role but when it comes to Velocity, the data processing system is expected not only to perform the operations in batch mode but also instantaneously, which is also known as *Real-Time Processing*.
